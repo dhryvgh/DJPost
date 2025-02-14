@@ -11,7 +11,7 @@ DJtweet is a **basic CRUD web application** built using Django. It allows users 
 - User Authentication (Sign up, Log in, Log out)
 - Create, Read, Update, Delete (CRUD) functionality for posts
 - Image upload support
-- Responsive UI (optional if frontend is styled)
+- Responsive UI
 
 ## 🛠️ Tech Stack
 - **Backend:** Django, Django ORM
