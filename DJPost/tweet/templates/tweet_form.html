@@ -6,17 +6,17 @@ DJtweet
 
 {% block content %}
 
-<h1 class="text-center mt-4">Welcome to DJtweet</h1>
+<h1 class="text-center mt-4">Welcome to DJPost</h1>
 
 <h2>
-    {% if form.instance.pk %} Edit Tweet {%else%} Create tweet {% endif %}
+    {% if form.instance.pk %} Edit Post {%else%} Create Post {% endif %}
     <form method="post" enctype="multipart/form-data" class="form">
         {% csrf_token %} 
         {{ form.as_p }}
         <button class="btn btn-warning" type="submit">Create</button>
 
     </form>
-    <a href="{% url 'tweet_list' %}">Back to tweet list</a> 
+    <a href="{% url 'tweet_list' %}">Back to Post list</a> 
 </h2>
 
 {% endblock %}
