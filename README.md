@@ -3,7 +3,7 @@
 ## 📌 Overview
 DJPost is a **basic CRUD web application** built using Django. It allows users to:
 - **Sign up & Log in** securely
-- **Create, Edit, and Delete** short posts (tweets)
+- **Create, Edit, and Delete** short posts 
 - **Upload Images** with their posts
 - **View posts** from other users
 
@@ -21,8 +21,8 @@ DJPost is a **basic CRUD web application** built using Django. It allows users t
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/DJtweet.git
-cd DJtweet
+git clone https://github.com/yourusername/DJPost.git
+cd DJPost
 ```
 
 ### 2️⃣ Create a Virtual Environment & Install Dependencies
