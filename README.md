@@ -1,7 +1,7 @@
-# DJtweet - A Simple Django CRUD App
+# DJPost - A Simple Django CRUD App
 
 ## 📌 Overview
-DJtweet is a **basic CRUD web application** built using Django. It allows users to:
+DJPost is a **basic CRUD web application** built using Django. It allows users to:
 - **Sign up & Log in** securely
 - **Create, Edit, and Delete** short posts (tweets)
 - **Upload Images** with their posts
