@@ -1,4 +1,4 @@
-# DJPost - A Simple Django CRUD App
+# Echo - A Django Blog app
 
 ## 📌 Overview
 DJPost is a **basic CRUD web application** built using Django. It allows users to:
